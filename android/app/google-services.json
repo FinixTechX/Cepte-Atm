@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "407262156743",
+    "project_id": "cepteatm",
+    "storage_bucket": "cepteatm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407262156743:android:885c6ce018d51a07406be2",
+        "android_client_info": {
+          "package_name": "com.progiom.CepteATM"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "407262156743-p4eacc968pmv70eicj412q2ad48gpr15.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.progiom.CepteATM",
+            "certificate_hash": "19f4944a8eaa0c4a89b9366dc5317f9ddb50e120"
+          }
+        },
+        {
+          "client_id": "407262156743-uipbd1ivsqjmnv9lc0835vv4voqi4g5p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.progiom.CepteATM",
+            "certificate_hash": "e31531c650313a80862f5a1738b522dd930a0aac"
+          }
+        },
+        {
+          "client_id": "407262156743-56f6gg3p6icgqv1cuthmg3fiv8nm4t50.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuvU0YXzDHa65Bg9rx-zlSVCWiSggtRVs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "407262156743-56f6gg3p6icgqv1cuthmg3fiv8nm4t50.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
